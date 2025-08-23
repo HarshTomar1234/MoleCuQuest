@@ -124,7 +124,7 @@ Ensure you have the following installed:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/MoleCuQuest.git
+git clone https://github.com/HarshTomar1234/MoleCuQuest.git
 cd MoleCuQuest
 ```
 
