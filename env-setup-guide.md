@@ -15,8 +15,8 @@ NEXT_PUBLIC_NVIDIA_API_KEY=your-nvidia-api-key-here
 # Ably Real-time API Key (for chat functionality)
 NEXT_PUBLIC_ABLY_API_KEY=your-ably-api-key-here
 
-# MongoDB Connection (you already have this working)
-MONGODB_URL=mongodb+srv://pythonharsh1234:QpElZHFjaNB5H0Fs@molecuquest.vhwtojo.mongodb.net/?retryWrites=true&w=majority&appName=MoleCuQuest
+# MongoDB Connection 
+MONGODB_URL= "your mongodb-uri here"
 
 # API Base URL
 NEXT_PUBLIC_API_BASE_URL=http://localhost:3000
@@ -67,3 +67,4 @@ RESEND_KEY=your-resend-api-key-here
 - The `.env` file should NEVER be committed to git (it's already in .gitignore)
 - Keep your API keys secure and never share them publicly
 - For production, use different values and ensure they're properly secured
+
