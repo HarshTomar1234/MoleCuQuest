@@ -32,6 +32,7 @@
 8. [API Integration](#api-integration)
 9. [Project Structure](#project-structure)
 10. [Contributing](#contributing)
+11. [LICENSE](#License)
 
 ## Introduction
 
@@ -295,6 +296,10 @@ We welcome contributions to MoleCuQuest! To contribute:
 - Follow ESLint and Prettier configurations
 - Implement proper error handling
 - Write comprehensive component documentation
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
